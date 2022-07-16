@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-
-
-### Tech
-<div align=center><h1>📚 STACKS</h1></div>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRyuhyis%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23FF9A9A&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<div align=center>
+  
+  
+ <h3>📚 STACKS</h3></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
