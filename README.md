@@ -37,7 +37,6 @@
 <a href="soo990315@naver.com" target="_blank"><img src="https://img.shields.io/badge/Email-339933?style=flat-square&logo=Naver&logoColor=white"/></a>
 <a href="skyblue22756@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-E34F26?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://github.com/Ryuhyis" target="_blank"><img src="https://img.shields.io/badge/Github-232F3E?style=flat-square&logo=Github&logoColor=white"/></a>
-<a href="https://heesotory.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-20c997?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRyuhyis%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23FF9A9A&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <div align=center>
