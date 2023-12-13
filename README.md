@@ -2,7 +2,7 @@
 
  - 💻   I'm dreaming of becoming a **Backend Develover** 🔥
 
- - 🌱 I'm currently learning <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"> & <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+ - 🌱 I'm currently learning <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
 - 🏫 My major is ICE, Information Communications Engineering
 <br>
 
@@ -27,6 +27,7 @@
 <br>
  
 ### 🤸 Activity
+- **Member Of [Depromeet](https://github.com/depromeet) 14th**
 - **Member Of [Depromeet](https://github.com/depromeet) 12th**
 - **Member Of [GDSC HUFS](https://gdsc-hufs.web.app/) 4th**
 - **SKT FLYAI Academy 1th**
