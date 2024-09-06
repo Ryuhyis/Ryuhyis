@@ -29,7 +29,7 @@
 ### 🤸 Activity
 - **Member Of [Depromeet](https://github.com/depromeet) 14th**
 - **Member Of [Depromeet](https://github.com/depromeet) 12th**
-- **Member Of [GDSC HUFS](https://gdsc-hufs.web.app/) 4th**
+- **Member Of [GDSC](https://gdsc-hufs.web.app/) 4th**
 - **SKT FLYAI Academy 1th**
 <br>
 <br>
